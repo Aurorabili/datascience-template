@@ -1,0 +1,42 @@
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+*.Rproj.user
+*.RData
+*.Ruserdata
+*.Rhistory
+*.Rcheck/
+*.Rcache/
+*.Rd2
+*.Rdx
+*.Rb2
+*.Rbx
+*.rdx
+*.rd2
+*.rdb
+*.rbx
+*.tar.gz
+*.tar
+*.taz
+*.gz
+*.bz2
+*.xz
+*.Z
+*.swp
